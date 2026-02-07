@@ -1,8 +1,9 @@
+"""Simple demo module to test pylint warnings."""
+
+
 def hello():
-    """
-    Docstring for hello
-    """
+    """Return a greeting string."""
     return "hello"
 
-hello()
 
+hello()

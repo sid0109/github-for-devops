@@ -1,3 +1,7 @@
-print("Hello Friends!!!!")
+def hello():
+    """
+    Docstring for hello
+    """
+    return "hello"
 
-print("new line added")
+hello()

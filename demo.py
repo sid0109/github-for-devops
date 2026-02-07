@@ -9,4 +9,3 @@ def my_fun():
 
 
 my_fun()
-
